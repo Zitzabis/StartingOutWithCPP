@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Programming Challenges\Ch2\Ex1\Ex1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Programming Challenges\Ch2\Ex2\Ex2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
