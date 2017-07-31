@@ -1,6 +1,5 @@
 /*
 	== Documentation ==
-
 	Project:	Ch2Ex1
 	Author:		S. Floyd
 	Date:		07/31/2017
