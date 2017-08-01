@@ -28,7 +28,7 @@ int main() {
 
 	double totalSalesTax = purchaseCost * (stateTax + countyTax);
 
-	cout << totalSalesTax << endl;;
+	cout << totalSalesTax << endl;
 
 	// End
 	return 0;
