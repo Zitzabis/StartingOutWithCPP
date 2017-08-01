@@ -26,14 +26,17 @@ int main() {
 	double numGallons;
 	double numMiles;
 
+	// Num of gallons
 	cout << "How many gallons of gas can the car hold?\nInput: ";
 	cin >> numGallons;
 	cout << endl << endl;
 
+	// Num of miles
 	cout << "How many miles can the car drive on a full tank?\nInput: ";
 	cin >> numMiles;
 	cout << endl << endl;
 
+	// Print results
 	cout << "Miles per gallon:	" << numMiles / numGallons << endl;
 
 	// End
