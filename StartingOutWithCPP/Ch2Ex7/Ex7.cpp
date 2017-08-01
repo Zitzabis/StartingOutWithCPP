@@ -4,7 +4,7 @@
 	Author:		S. Floyd
 	Date:		08/01/2017
 
-	==Ocean Levels ==
+	== Ocean Levels ==
 	Assuming the ocean’s level is currently rising at about 1.5 millimeters per year, write a program that displays:
 
 	- The number of millimeters higher than the current level that the ocean’s level will be in 5 years
