@@ -9,6 +9,9 @@
 	these two in a variable named total.
 */
 
+// Include
+#include <iostream>
+
 /*
 	It is poor practice to use the "standard" namespace.
 	However it is included so as to adhere to what the book does.
@@ -23,6 +26,9 @@ int main() {
 
 	// Calculate total
 	int total = a + b;
+
+	// Print results
+	cout << "Total:	" << total << endl;
 
 	// End
 	return 0;
