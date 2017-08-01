@@ -30,7 +30,7 @@ int main() {
 	double eastCoastDiv = totalSales * percentage;
 
 	// Print result
-	cout << eastCoastDiv;
+	cout << eastCoastDiv << endl;
 
 	// End
 	return 0;
