@@ -26,6 +26,7 @@ int main() {
 	double total = 0;
 	int score;
 
+	// Fetch scores
 	for (int i = 0; i < 5; i++) {
 		cout << "Enter score " << i + 1 << ": ";
 		cin >> score;
@@ -35,6 +36,7 @@ int main() {
 	// Set the number of decimal places
 	cout.precision(1);
 
+	// Print result
 	cout << endl << "Average Score:	" << fixed << total / 5 << endl;
 
 	// End	
