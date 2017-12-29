@@ -25,7 +25,7 @@ int main() {
 	// Vars
 	double celsius;
 
-	// Input expenses
+	// Input celsius
 	cout << "Please enter celsius amount: ";
 	cin >> celsius;
 
