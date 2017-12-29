@@ -16,7 +16,6 @@
 
 // Include
 #include <iostream>
-#include <string>
 
 /*
 	It is poor practice to use the "standard" namespace.
