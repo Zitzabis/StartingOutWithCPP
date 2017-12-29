@@ -28,7 +28,7 @@ int main() {
 	double widgetWeight = 12.5; // pounds
 	double palletWeight;
 
-	// Input name
+	// Input weight of pallet
 	cout << "Weight of the pallet (pounds): ";
 	cin >> palletWeight;
 

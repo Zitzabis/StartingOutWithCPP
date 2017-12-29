@@ -27,7 +27,7 @@ int main() {
 	int cookiesEaten;
 	int caloriesPerCookie = 100;
 
-	// Input name
+	// Input number of cookies
 	cout << "Number of cookies eaten: ";
 	cin >> cookiesEaten;
 

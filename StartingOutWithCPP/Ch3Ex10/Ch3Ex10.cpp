@@ -27,7 +27,7 @@ int main() {
 	// Vars
 	double buildingValue;
 
-	// Input
+	// Input building cost
 	cout << "Replacement cost of a building: ";
 	cin >> buildingValue;
 
