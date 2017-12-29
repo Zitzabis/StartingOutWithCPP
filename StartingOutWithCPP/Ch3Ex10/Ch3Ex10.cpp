@@ -28,11 +28,11 @@ int main() {
 	double buildingValue;
 
 	// Input building cost
-	cout << "Replacement cost of a building: ";
+	cout << "Replacement cost of a building: $";
 	cin >> buildingValue;
 
 	// Print results
-	cout << endl << "Insurance to be bought for the building: " << buildingValue * 0.8 << endl;
+	cout << endl << "Insurance to be bought for the building: $" << buildingValue * 0.8 << endl;
 
 	// End	
 	return 0;
