@@ -24,7 +24,7 @@ using namespace std;
 // Main
 int main() {
 	// Vars
-	int property;
+	double property;
 
 	// Input
 	cout << "Please enter the property value: ";
