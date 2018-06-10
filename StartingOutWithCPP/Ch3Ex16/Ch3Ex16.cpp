@@ -1,10 +1,10 @@
 /*
 	== Documentation ==
-	Project:	Ch3Ex15
+	Project:	Ch3Ex16
 	Author:		S. Floyd
 	Date:		6/10/2018
 
-	== Monthly Sales Tax ==
+	== Senior Citizen Property Tax ==
 	Madison County provides a $5,000 homeowner exemption for its senior citizens. For
 	example, if a senior’s house is valued at $158,000 its assessed value would be $94,800,
 	as explained above. However, he would only pay tax on $89,800. At last year’s tax
