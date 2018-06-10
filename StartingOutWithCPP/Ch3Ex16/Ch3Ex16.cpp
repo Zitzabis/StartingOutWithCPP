@@ -29,13 +29,24 @@ using namespace std;
 // Main
 int main() {
 	// Vars
-	int property;
+	double property;
+	double taxRate;
 
 	// Input
+	cout << "Please enter the property value: ";
+	cin >> property;
+	cout << "Please enter the tax rate for each $100 of assessed value: ";
+	cin >> taxRate;
 
+	// Calculation
+	double assessment = property * 0.6;
+	double propertyTax = (assessment - 5000 / 100) * taxRate;
+	double quarterlyPayment = propertyTax / 4;
 
 	// Print results
-
+	cout << endl << "Assessment value:\t$" << assessment;
+	cout << endl << "Property tax:\t\t$" << propertyTax;
+	cout << endl << "Quarterly payment:\t$" << quarterlyPayment << endl;
 
 	// End	
 	return 0;
